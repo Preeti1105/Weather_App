@@ -4,3 +4,4 @@ joblib
 seaborn
 matplotlib
 requests
+scikit-learn
