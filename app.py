@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import requests
 
 # Load Trained Model
-model = joblib.load("traffic_random_forest_model_fixed.pkl")
+model = joblib.load("traffic_random_forest_model_fixed (1).pkl")
 
 st.set_page_config(page_title="Traffic Prediction", page_icon="🚦", layout="wide")
 
